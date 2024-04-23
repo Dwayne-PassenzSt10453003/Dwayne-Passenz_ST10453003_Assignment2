@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignemt 2</string>
+    <string name="Button1">Get started!</string>
+    <string name="Button2">Feed</string>
+    <string name="Button3">Clean</string>
+    <string name="Button4">Play</string>
+</resources>
